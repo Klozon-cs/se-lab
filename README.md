@@ -1,4 +1,5 @@
 [![Java CI with Maven](https://github.com/Klozon-cs/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/Klozon-cs/se-lab/actions/workflows/maven.yml)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
